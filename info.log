@@ -1,0 +1,24 @@
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"card with id 2 not found","level":"error"}
+{"message":"card with id 3e8d065d-fa2f-4f88-be06-0655491766d4 not found","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Card with id 1edbbad3-bd29-4eb3-9903-e842505a3439 created","level":"info"}
+{"message":"List with id 29dc7988-12b7-42ce-b087-69f2d79790b9 created","level":"info"}
+{"message":"List with id 933a2975-24af-4ab5-aa73-d045fd768cbd created","level":"info"}
+{"message":"header is required","level":"error"}
+{"message":"header is required","level":"error"}
+{"message":"List with id b61c61ce-ed37-45b2-8edc-6f0616c5557f created","level":"info"}
+{"message":"List with id f0c5b875-56a0-41f0-941a-99efdc0cee9b created","level":"info"}
+{"message":"header is required","level":"error"}
+{"message":"List with id b38e534c-55ba-4892-9729-a9f15ddaecd3 created","level":"info"}
+{"message":"Unauthorized request to path: /favicon.ico","level":"error"}
+{"message":"List with id 4c30f36d-afed-4ff8-a895-c53a0d8a209f created","level":"info"}
+{"message":"Unauthorized request to path: /favicon.ico","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Card with id 40fbb5cf-da68-43de-8270-c1109dd4db73 created","level":"info"}
